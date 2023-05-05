@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kronicbucky/342/Assignment1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/FlanBased.dir/FlannBasedTest.cpp.o -c /home/kronicbucky/342/Assignment1/FlannBasedTest.cpp",
+  "file": "/home/kronicbucky/342/Assignment1/FlannBasedTest.cpp"
+},
+{
+  "directory": "/home/kronicbucky/342/Assignment1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/FlanBased.dir/Timer.cpp.o -c /home/kronicbucky/342/Assignment1/Timer.cpp",
+  "file": "/home/kronicbucky/342/Assignment1/Timer.cpp"
+}
+]
