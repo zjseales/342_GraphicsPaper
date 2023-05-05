@@ -1,0 +1,3 @@
+/home/kronicbucky/342/07/stereo/build/CMakeFiles/rebuild_cache.dir
+/home/kronicbucky/342/07/stereo/build/CMakeFiles/edit_cache.dir
+/home/kronicbucky/342/07/stereo/build/CMakeFiles/stereo.dir

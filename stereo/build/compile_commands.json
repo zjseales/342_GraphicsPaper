@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kronicbucky/342/07/stereo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/stereo.dir/stereo.cpp.o -c /home/kronicbucky/342/07/stereo/stereo.cpp",
+  "file": "/home/kronicbucky/342/07/stereo/stereo.cpp"
+},
+{
+  "directory": "/home/kronicbucky/342/07/stereo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/stereo.dir/CalibrationIO.cpp.o -c /home/kronicbucky/342/07/stereo/CalibrationIO.cpp",
+  "file": "/home/kronicbucky/342/07/stereo/CalibrationIO.cpp"
+}
+]
